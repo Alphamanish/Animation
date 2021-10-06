@@ -51,10 +51,10 @@ body{
     position:absolute;
     z-index: +1;
 }
-#cloud6{   /*cloud after some interval*/
+#cloud6{  
     padding-top: 50px;
     padding-left: 0px;
-    width: 150;
+    width: 220;
     height: 100;
     position:absolute;
     z-index: +1;
