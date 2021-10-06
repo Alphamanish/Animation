@@ -3,7 +3,7 @@ function myMove() {
     const elem = document.getElementById("myImage");   
     let pos = 0;
  
-    id = setInterval(frame, 15);
+    id = setInterval(frame, 9);
     function frame() {
       if (pos == 1550) {
         clearInterval(id);
